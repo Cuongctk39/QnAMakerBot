@@ -6426,19 +6426,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cuongnguyendp\\.nuget\\packages\\": {}
+    "C:\\Users\\ASD\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cuongnguyendp\\source\\repos\\EchoBot3\\EchoBot3\\EchoBot3.csproj",
+      "projectUniqueName": "C:\\Users\\ASD\\Downloads\\Customize Echobot\\MyQnAMakerTestBot-src (2)\\EchoBot3\\EchoBot3.csproj",
       "projectName": "EchoBot3",
-      "projectPath": "C:\\Users\\cuongnguyendp\\source\\repos\\EchoBot3\\EchoBot3\\EchoBot3.csproj",
-      "packagesPath": "C:\\Users\\cuongnguyendp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cuongnguyendp\\source\\repos\\EchoBot3\\EchoBot3\\obj\\",
+      "projectPath": "C:\\Users\\ASD\\Downloads\\Customize Echobot\\MyQnAMakerTestBot-src (2)\\EchoBot3\\EchoBot3.csproj",
+      "packagesPath": "C:\\Users\\ASD\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ASD\\Downloads\\Customize Echobot\\MyQnAMakerTestBot-src (2)\\EchoBot3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\cuongnguyendp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASD\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6450,6 +6450,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -6461,6 +6462,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
             "target": "Package",
@@ -6489,7 +6491,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.115\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
