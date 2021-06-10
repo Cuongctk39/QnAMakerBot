@@ -1,0 +1,177 @@
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\QnAMaker.exe
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Dialogs\RootDialog\chitChat.qna
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Dialogs\RootDialog\RootDialog.lg
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Dialogs\RootDialog\RootDialog.qna
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\QnAMaker.deps.json
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\QnAMaker.runtimeconfig.json
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\QnAMaker.runtimeconfig.dev.json
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\QnAMaker.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\QnAMaker.pdb
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\AdaptiveExpressions.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Antlr4.Runtime.Standard.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.AI.QnA.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.Adaptive.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.Declarative.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.LanguageGeneration.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Bot.Configuration.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Bot.Connector.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Bot.Schema.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Bot.Streaming.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Definitions.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Choice.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.DataTypes.TimexExpression.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.DateTime.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Number.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.NumberWithUnit.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Sequence.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\NuGet.Common.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\NuGet.Configuration.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\NuGet.Packaging.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\NuGet.Versioning.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Security.Cryptography.ProtectedData.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Security.Cryptography.ProtectedData.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\obj\Debug\netcoreapp3.1\QnAMaker.csprojAssemblyReference.cache
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\obj\Debug\netcoreapp3.1\QnAMaker.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\obj\Debug\netcoreapp3.1\QnAMaker.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\obj\Debug\netcoreapp3.1\QnAMaker.AssemblyInfoInputs.cache
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\obj\Debug\netcoreapp3.1\QnAMaker.AssemblyInfo.cs
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\obj\Debug\netcoreapp3.1\QnAMaker.RazorTargetAssemblyInfo.cache
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\obj\Debug\netcoreapp3.1\QnAMaker.csproj.CopyComplete
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\obj\Debug\netcoreapp3.1\staticwebassets\QnAMaker.StaticWebAssets.Manifest.cache
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\obj\Debug\netcoreapp3.1\staticwebassets\QnAMaker.StaticWebAssets.xml
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\obj\Debug\netcoreapp3.1\QnAMaker.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore\adaptive-dialog\07.qnamaker\obj\Debug\netcoreapp3.1\QnAMaker.pdb
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\QnAMaker.exe
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Dialogs\RootDialog\chitChat.qna
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Dialogs\RootDialog\RootDialog.lg
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Dialogs\RootDialog\RootDialog.qna
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\QnAMaker.deps.json
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\QnAMaker.runtimeconfig.json
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\QnAMaker.runtimeconfig.dev.json
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\QnAMaker.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\QnAMaker.pdb
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\AdaptiveExpressions.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Antlr4.Runtime.Standard.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.AI.QnA.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.Adaptive.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.Declarative.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.LanguageGeneration.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Bot.Configuration.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Bot.Connector.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Bot.Schema.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Bot.Streaming.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Definitions.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Choice.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.DataTypes.TimexExpression.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.DateTime.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Number.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.NumberWithUnit.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Sequence.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\NuGet.Common.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\NuGet.Configuration.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\NuGet.Packaging.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\NuGet.Versioning.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Security.Cryptography.ProtectedData.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Security.Cryptography.ProtectedData.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\obj\Debug\netcoreapp3.1\QnAMaker.csprojAssemblyReference.cache
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\obj\Debug\netcoreapp3.1\QnAMaker.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\obj\Debug\netcoreapp3.1\QnAMaker.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\obj\Debug\netcoreapp3.1\QnAMaker.AssemblyInfoInputs.cache
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\obj\Debug\netcoreapp3.1\QnAMaker.AssemblyInfo.cs
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\obj\Debug\netcoreapp3.1\QnAMaker.RazorTargetAssemblyInfo.cache
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\obj\Debug\netcoreapp3.1\QnAMaker.csproj.CopyComplete
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\obj\Debug\netcoreapp3.1\staticwebassets\QnAMaker.StaticWebAssets.Manifest.cache
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\obj\Debug\netcoreapp3.1\staticwebassets\QnAMaker.StaticWebAssets.xml
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\obj\Debug\netcoreapp3.1\QnAMaker.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\csharp_dotnetcore - Copy (2)\adaptive-dialog\07.qnamaker\obj\Debug\netcoreapp3.1\QnAMaker.pdb
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\QnAMaker.exe
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Dialogs\RootDialog\chitChat.qna
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Dialogs\RootDialog\RootDialog.lg
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Dialogs\RootDialog\RootDialog.qna
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\QnAMaker.deps.json
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\QnAMaker.runtimeconfig.json
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\QnAMaker.runtimeconfig.dev.json
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\QnAMaker.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\QnAMaker.pdb
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\AdaptiveExpressions.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Antlr4.Runtime.Standard.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.AI.QnA.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.Adaptive.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.Declarative.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.LanguageGeneration.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Bot.Configuration.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Bot.Connector.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Bot.Schema.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Bot.Streaming.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Definitions.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Choice.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.DataTypes.TimexExpression.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.DateTime.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Number.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.NumberWithUnit.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Sequence.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\NuGet.Common.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\NuGet.Configuration.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\NuGet.Packaging.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\NuGet.Versioning.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Security.Cryptography.ProtectedData.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Security.Cryptography.ProtectedData.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\obj\Debug\netcoreapp3.1\QnAMaker.csprojAssemblyReference.cache
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\obj\Debug\netcoreapp3.1\QnAMaker.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\obj\Debug\netcoreapp3.1\QnAMaker.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\obj\Debug\netcoreapp3.1\QnAMaker.AssemblyInfoInputs.cache
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\obj\Debug\netcoreapp3.1\QnAMaker.AssemblyInfo.cs
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\obj\Debug\netcoreapp3.1\QnAMaker.RazorTargetAssemblyInfo.cache
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\obj\Debug\netcoreapp3.1\QnAMaker.csproj.CopyComplete
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\obj\Debug\netcoreapp3.1\staticwebassets\QnAMaker.StaticWebAssets.Manifest.cache
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\obj\Debug\netcoreapp3.1\staticwebassets\QnAMaker.StaticWebAssets.xml
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\obj\Debug\netcoreapp3.1\QnAMaker.dll
+D:\Project\QnA Maker\BotBuilder-Samples-main\BotBuilder-Samples-main\samples\adaptive-dialog\07.qnamaker\obj\Debug\netcoreapp3.1\QnAMaker.pdb
